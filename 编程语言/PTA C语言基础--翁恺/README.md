@@ -1,1 +1,1 @@
-Location--Problems/编程语言/C语言/PTA C入门练习--翁凯
+Location--Problems/编程语言/PTA C入门练习--翁凯

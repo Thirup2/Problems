@@ -1,1 +1,1 @@
-Location--Problems/数据结构与算法/06 PTA Data Structures and Algorithms(English)
+Location--Problems/数据结构与算法/PTA Data Structures and Algorithms(English)

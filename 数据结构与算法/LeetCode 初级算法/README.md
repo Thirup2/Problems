@@ -1,1 +1,1 @@
-Location--Problems/数据结构与算法/01 LeetCode 初级算法
+Location--Problems/数据结构与算法/LeetCode 初级算法
