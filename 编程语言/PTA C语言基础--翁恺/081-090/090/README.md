@@ -12,7 +12,11 @@ letter = 英文字母个数, blank = 空格或回车个数, digit = 数字字符
 的格式输出。
 
 ### 输入样例:
+```
 aZ &
 09 Az
+```
 ### 输出样例:
+```
 letter = 4, blank = 3, digit = 2, other = 1
+```
